@@ -5,12 +5,12 @@
 import { StyleSheet } from 'react-native';
 
 export default StyleSheet.create({
-  container : {
+  container: {
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center'
   },
-  text : {
+  text: {
     fontSize : 12
   }
 });
