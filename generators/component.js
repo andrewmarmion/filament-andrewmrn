@@ -16,6 +16,6 @@ exports.gen = function (Filament, flags, arg) {
   Filament.regexWrite(
     'storybook/stories/index.js',
     /(\n\/\/ Stories go here\n)/gim ,
-    'import ' + arg + ' from \'app/components/' + arg + '\';\n$1\nstoriesOf(\''+ arg + '\', module)\n  .addDecorator(getStory => <CenterView>{getStory()}</CenterView>)\n  .add(\'Initial\', () => (\n    <' + arg + ' />\n    ));\n'
+    'import ' + arg + ' from \'app/components/' + arg + '\';\n$1\nstoriesOf(\''+ arg + '\', module)\n  .addDecorator(getStory => <CenterView>{getStory()}</CenterView>)\n  .add(\'Initial\', () => (\n    <' + arg + ' />\n  ));\n'
     );
 };
