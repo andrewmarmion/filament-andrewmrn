@@ -1,0 +1,15 @@
+{
+  "name": "filament-andrewmrn",
+  "version": "0.0.1",
+  "description": "Filament package for the andrewm React Native template",
+  "repository": "github:andrewmarmion/filament-andrewmrn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Marmion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewmarmion/filament-andrewmrn/issues"
+  }
+}
