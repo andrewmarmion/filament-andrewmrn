@@ -1,6 +1,6 @@
 {
   "name": "filament-andrewmrn",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Filament package for the andrewm React Native template",
   "repository": "github:andrewmarmion/filament-andrewmrn",
   "main": "index.js",
