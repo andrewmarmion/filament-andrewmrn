@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/filament-andrewmrn.svg)](https://badge.fury.io/js/filament-andrewmrn)
 # filament-andrewmrn
 Filament package for react-native-template-andrewm
 
