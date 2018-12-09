@@ -40,6 +40,8 @@ class {{name}} extends Component {
   }
 }
 
+{{name}}.defaultProps = {};
+
 /**
  * Map component props to redux app state
  * @param {*} state - the redux app state

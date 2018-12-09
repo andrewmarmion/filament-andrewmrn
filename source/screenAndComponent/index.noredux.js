@@ -33,4 +33,6 @@ class {{name}} extends Component {
   }
 }
 
+{{name}}.defaultProps = {};
+
 export default {{name}};
