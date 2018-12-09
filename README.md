@@ -1,3 +1,9 @@
+[![npm version](https://badge.fury.io/js/filament-andrewmrn.svg)](https://badge.fury.io/js/filament-andrewmrn)
+[![npm downloads](https://img.shields.io/npm/dt/filament-andrewmrn.svg)](https://www.npmjs.com/package/filament-andrewmrn)
+![](https://img.shields.io/github/issues-raw/andrewmarmion/filament-andrewmrn.svg)
+![](https://img.shields.io/github/last-commit/andrewmarmion/filament-andrewmrn.svg)
+![](https://img.shields.io/github/languages/top/andrewmarmion/filament-andrewmrn.svg)
+![](https://img.shields.io/npm/l/react-native-template-andrewm.svg)
 # filament-andrewmrn
 Filament package for react-native-template-andrewm
 
